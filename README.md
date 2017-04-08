@@ -1,29 +1,22 @@
-## Your Name
+## Isabel Larner
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After working in support roles across IT and market research industries, I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. Hence my plunge into [Makers Academy](http://www.makersacademy.com/), a 16-week developer bootcamp where I was put through the wringer in learning software development fundamentals - and loved every second of it.
+
+I am looking to take on a junior developer role in London, joining into a team where best coding practices are championed alongside supportive collaboration.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy 
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +25,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Cardiff University 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Philosophy BA
+- 2:1
+- Editor for Quench, Cardiff University's culture magazine
 
-#### Any other qualifications
+#### International House 
+
+- Attained a CELTA qualification (teaching English as a second language)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**C Space** (Sept 2015 - Feb 2017)   
+*Community Services Associate*  
+C Space is a consultancy that specialises in customer-centric innovation. I supported and advised consultants on community management, data reporting and member engagement. 
+
+**DNV GL**  (Sep 2014 - Aug 2015)    
+*Deskside Analyst*
+Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes.   
+
+*IT Admin Assistant (Short Term Contract)*    
+I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation, visualised via Excel and PowerPoint), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
+
