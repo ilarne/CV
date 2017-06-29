@@ -6,7 +6,7 @@ I am looking to take on a junior developer role in London, joining into a team w
 
 ## Education
 
-#### Makers Academy 
+### Makers Academy 
 
 - Independent learning and problem-solving
 - OOP, TDD and SOLID principles
@@ -19,13 +19,13 @@ Makers Academy is an accelerated programme that assists students in therir own s
 
 **Please see my final project for Makers Academy here: [Onbord, the online collaborative whiteboard](https://github.com/ilarne/team-whiteboard).**
 
-#### Cardiff University 
+### Cardiff University 
 
 - Philosophy BA
 - 2:1
 - Editor for Quench, Cardiff University's culture magazine
 
-#### International House 
+### International House 
 
 - Attained a CELTA qualification (teaching English as a second language)
 
