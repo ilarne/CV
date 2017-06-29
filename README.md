@@ -17,7 +17,9 @@ I am looking to take on a junior developer role in London, joining into a team w
 
 Makers Academy is an accelerated programme that assists students in therir own self-driven learning of software engineering. Test Driven Development, well-crafted code, pair programming and project work are emphasised as preparation for real-world situations and 'learning by doing'. 
 
-**Please see my final project for Makers Academy here: [Onbord, the online collaborative whiteboard](https://github.com/ilarne/team-whiteboard).**
+![Onbord](https://github.com/ilarne/team-whiteboard/blob/master/public/images/onbord-logo.png "Onbord")
+
+Please take a look at my final project: **[Onbord, the online collaborative whiteboard](https://github.com/ilarne/team-whiteboard).** 
 
 ### Cardiff University 
 
