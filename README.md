@@ -34,6 +34,7 @@ Makers Academy is an accelerated programme that assists students in therir own s
 ### C Space (Sept 2015 - Feb 2017)   
 
 **Community Services Associate**
+
 C Space is a consultancy that specialises in customer-centric innovation. I supported and advised consultants on community management, data reporting and member engagement. 
 
 ### DNV GL (Sep 2014 - Aug 2015)  
