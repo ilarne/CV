@@ -34,16 +34,13 @@ Makers Academy is an accelerated programme that assists students in therir own s
 ### C Space (Sept 2015 - Feb 2017)   
 
 **Community Services Associate**
-
 C Space is a consultancy that specialises in customer-centric innovation. I supported and advised consultants on community management, data reporting and member engagement. 
 
 ### DNV GL (Sep 2014 - Aug 2015)  
 
 **Deskside Analyst**
-
 Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes. This included trends analysis of incoming tickets to anticipate and address user needs, such as creating a business case for new printers after recurring ticket requests 
 
 **IT Admin Assistant (Short Term Contract)**
-
 I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation, visualised via Excel and PowerPoint), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
 
