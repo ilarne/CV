@@ -4,26 +4,20 @@ After working in support roles across IT and market research industries, I wante
 
 I am looking to take on a junior developer role in London, joining into a team where best coding practices are championed alongside supportive collaboration.
 
-## Skills
-
-#### Communication
-
-
-
-#### Analysis
-
-
-
 ## Education
 
 #### Makers Academy 
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Independent learning and problem-solving
+- OOP, TDD and SOLID principles
+- Agile practices and Continuous Deployment
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
+
+Makers Academy is an accelerated programme that assists students in therir own self-driven learning of software engineering. Test Driven Development, well-crafted code, pair programming and project work are emphasised as preparation for real-world situations and 'learning by doing'. 
+
+**Please see my final project for Makers Academy here: [Onbord, the online collaborative whiteboard](https://github.com/ilarne/team-whiteboard).**
 
 #### Cardiff University 
 
@@ -43,7 +37,7 @@ C Space is a consultancy that specialises in customer-centric innovation. I supp
 
 **DNV GL**  (Sep 2014 - Aug 2015)    
 *Deskside Analyst*
-Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes.   
+Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes. This included trends analysis of incoming tickets to anticipate and address user needs, such as creating a business case for new printers after recurring ticket requests 
 
 *IT Admin Assistant (Short Term Contract)*    
 I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation, visualised via Excel and PowerPoint), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
