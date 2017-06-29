@@ -29,7 +29,7 @@ Makers Academy is an accelerated programme that assists students in therir own s
 
 - Attained a CELTA qualification (teaching English as a second language)
 
-## Experience
+## Work Experience
 
 **C Space** (Sept 2015 - Feb 2017)   
 *Community Services Associate*  
