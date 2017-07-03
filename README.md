@@ -62,4 +62,4 @@ I supported the marketing team with content creation and managing social media c
 - Built relationships with bloggers, journalists, editors and industry experts.
 -	Self-initiated research and documentation of social platforms and industry trends.  
 -	Helped to develop partnership between Art For Care, the charity founded by Rise Art, and St George’s Hospital.
- -  Assisted in event planning and marketing for two successful exhibitions.
+- Assisted in event planning and marketing for two successful exhibitions.
