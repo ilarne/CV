@@ -43,7 +43,7 @@ C Space is a consultancy that specialises in customer-centric innovation. I supp
 
 **Deskside Analyst**
 
-Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes. This included trends analysis of incoming tickets to anticipate and address user needs, such as creating a business case for new printers after recurring ticket requests 
+Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes within the IT department. This included trends analysis of incoming tickets to anticipate and address user needs, such as creating a business case for new printers after recurring ticket requests regarding faults with the machines.
 
 **IT Admin Assistant (Short Term Contract)**
 
