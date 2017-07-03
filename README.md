@@ -10,7 +10,7 @@ Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself 
 
 - Independent learning and problem-solving
 - OOP, TDD and SOLID principles
-- Agile practices and Continuous Deployment
+- Agile practices and Continuous Deployment/Integration
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
