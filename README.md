@@ -1,8 +1,8 @@
 ## Isabel Larner
 
-After working in support roles across IT and market research industries, I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. Hence my plunge into [Makers Academy](http://www.makersacademy.com/), a 16-week developer bootcamp where I was put through the wringer in learning software development fundamentals - and loved every second of it.
+Full stack (with a flair for front end) Javascript and Ruby developer with the drive to learn whatever else is needed to get the job done. Working previously across digital marketing, market research and IT roles has given me a balanced understanding of both tech and how it affects (or can be utilised to affect) the user. 
 
-I am looking to take on a junior developer role in London, joining into a team where best coding practices are championed alongside supportive collaboration.
+Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. During this 12-week developer bootcamp I was put through the wringer in learning software development best practices - and loved every second of it.
 
 ## Education
 
