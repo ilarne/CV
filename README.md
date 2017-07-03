@@ -39,6 +39,9 @@ I loved to learn, and wanted to know how I could help others learn too. Last yea
 
 C Space is a consultancy that specialises in customer-centric innovation. I supported and advised consultants on community management, data reporting and member engagement. 
 
+ - 	Scouted to own community management of the Twitter account based on my engaging and persuasive communication style.  
+ -	Scouted to provide in-depth support to a high-profile account (Google) based on my performance in supporting the Twitter account.
+
 ### DNV GL (Sep 2014 - Aug 2015)  
 
 **Deskside Analyst**
@@ -49,3 +52,13 @@ Assisted with IT support to users within the business. I communicated with users
 
 I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation, visualised via Excel and PowerPoint), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
 
+### Rise Art
+
+**Digital Marketing Intern**
+I supported the marketing team with content creation and managing social media channels.  
+ -	Increased blog traffic via content marketing and social media. 
+ -	Directly secured conversions with newsletter content.
+ -  Built relationships with bloggers, journalists, editors and industry experts.
+ -	Self-initiated research and documentation of social platforms and industry trends.  
+ -	Helped to develop partnership between Art For Care, the charity founded by Rise Art, and St George’s Hospital.
+ -  Assisted in event planning and marketing for two successful exhibitions.
