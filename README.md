@@ -55,6 +55,7 @@ I provided support for the team in a range of administrative tasks, as well as a
 ### Rise Art
 
 **Digital Marketing Intern**
+
 I supported the marketing team with content creation and managing social media channels. 
 
 -	Increased blog traffic via content marketing and social media. 
