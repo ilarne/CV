@@ -4,6 +4,8 @@ Full stack (with a flair for front end) Javascript and Ruby developer with the d
 
 Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. During this 12-week developer bootcamp I was put through the wringer in learning software development best practices - and loved every second of it.
 
+
+
 ## Projects
 
 | Project  | Technologies | Link |
@@ -62,7 +64,7 @@ Assisted with IT support to users within the business. I communicated with users
 
 I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation, visualised via Excel and PowerPoint), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
 
-### Rise Art
+### Rise Art (Jun 2014 - Aug 2014)
 
 **Digital Marketing Intern**
 
