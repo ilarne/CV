@@ -70,10 +70,7 @@ I loved to learn, and wanted to know how I could help others learn too. Last yea
 
 **Community Services Associate**
 
-C Space is a consultancy that specialises in customer-centric innovation. I supported and advised consultants on community management, data reporting and member engagement. 
-
-- 	Scouted to own community management of the Twitter account based on my engaging and persuasive communication style.  
--	Scouted to provide in-depth support to a high-profile account (Google) based on my performance in supporting the Twitter account.
+C Space is a consultancy that specialises in customer-centric innovation. I supported and advised consultants and other departments on community management, budgeting, data reporting and member engagement.
 
 ### DNV GL (Sep 2014 - Aug 2015)  
 
