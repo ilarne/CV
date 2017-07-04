@@ -1,4 +1,4 @@
-[Skills](#skills) | [Education](#education) | [Work Experience](#work-experience)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience)
 
 ## Isabel Larner
 
