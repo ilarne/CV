@@ -1,3 +1,5 @@
+[Skills](#skills) | [Education](#education) | [Work Experience](#work-experience)
+
 ## Isabel Larner
 
 Full stack (with a flair for front end) Javascript and Ruby developer with the drive to learn whatever else is needed to get the job done. Working previously across digital marketing, market research and IT roles has given me a balanced understanding of both tech and how it affects (or can be utilised to affect) the user. 
