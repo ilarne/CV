@@ -43,6 +43,7 @@ For our first project at Makers Academy, my team and I decided to do the entire 
 - Independent learning and problem-solving
 - OOP, TDD and SOLID principles
 - Agile practices and Continuous Deployment/Integration
+- Kaizen learning/'learning by doing'
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
