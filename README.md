@@ -4,6 +4,15 @@ Full stack (with a flair for front end) Javascript and Ruby developer with the d
 
 Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. During this 12-week developer bootcamp I was put through the wringer in learning software development best practices - and loved every second of it.
 
+## Projects
+
+| Project  | Technologies | Link |
+| ------------- | ------------- | ---- |
+| Onbord  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |   [Live](https://github.com/ilarne/team-whiteboard)   |
+| MakersBnB  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |   [Live](https://github.com/motri/Makersbnb) |
+| ThermostatJS | Javascript, JQuery, HTML, CSS, Jasmine | [Live](https://github.com/ilarne/thermostat-JS) |
+| Battle! | Ruby, Sinatra, Rspec, Capybara | [Live]https://github.com/ilarne/battle |
+
 ## Education
 
 ### Makers Academy 
