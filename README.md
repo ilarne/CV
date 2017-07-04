@@ -11,7 +11,7 @@ Liaising between both external users and clients, as well as inter- and intra-de
 
 Whether the task calls for professional or punchy and fun, my written communication has always been a speciality. Thanks to my engaging writing style, I was chosen to move from behind the scenes to user-facing community management for the Twitter account at C Space. I have directly secured conversions from my newsletter blasts at Rise Art, and successfully got buy-in for new printers at DNV GL after writing a persuasive and well-researched business case. 
 
-## Wider business thinking
+### Wider business thinking
 I have never confined myself to the role I was given in a company, preferring instead to branch out and see how my skils could be of use or have impact across the business. For example, at C Space I frequently assisted the Finance department and Boston office in ironing out budget issues across the company's accounts, and worked on top of my regular support duties to manage the Twitter community. At DNV GL I assisted in procurement, and at Rise Art I helped with offline event planning of two successful exhibitions on top of my regular digital marketing duties.
 
 ## Projects
