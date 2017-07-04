@@ -78,7 +78,7 @@ C Space is a consultancy that specialises in customer-centric innovation. I supp
 
 Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes within the IT department.
 
-**IT Admin Assistant (Short Term Contract)**
+**IT Admin Assistant**
 
 I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
 
