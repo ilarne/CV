@@ -11,13 +11,18 @@ Liaising between both external users and clients, as well as inter- and intra-de
 
 Whether the task calls for professional or punchy and fun, my written communication has always been a speciality. Thanks to my engaging writing style, I was chosen to move from behind the scenes to user-facing community management for the Twitter account at C Space. I have directly secured conversions from my newsletter blasts at Rise Art, and successfully got buy-in for new printers at DNV GL after writing a persuasive and well-researched business case. 
 
-At Makers Academy, I improved my communication skills furhter with a frequent feedback loop between the entire cohort, as well as daily pair programming and four group projects. 
+At Makers Academy, I improved my communication skills further with a frequent feedback loop between the entire cohort, as well as daily pair programming and four group projects. 
 
 ### Wider business thinking
 I have never closed my eyes to the wider workings of a company, preferring instead to branch out and see how my skils could be of use or have impact across the business. For example, at C Space I frequently assisted the Finance department and Boston office in ironing out budget issues across the company's accounts, and worked on top of my regular support duties to manage the Twitter community. At DNV GL I picked up IT's procurement duties when a teammate went on maternity leave, and at Rise Art I helped with offline event planning of two successful exhibitions on top of my regular digital marketing duties.
 
-### Adaptable and fast-learner
+### Fast learner
 I have always picked up new knowledge quickly, both academically and with company processes. For example, at C Space I had mastered my day-to-day duties within a few weeks, and quickly moved on to a more advisory role in how the consultants could best manage their communities and account spending. 
+
+At Makers Academy, I picked up agile work practises quickly despite no prior experience, and had perfected this by my final project with daily stand-ups, retros and a rigorously adhered to kanban board. After learning Ruby for most of the course, I picked up Javascript in less than a week, and on the first day of learning this new language I completed a task in a few hours that had taken me a weekend in Ruby just a few weeks prior.
+
+### Driven by challenge
+For our first project at Makers Academy, my team and I decided to do the entire thing in Javascript rather than the more familiar language of Ruby, and I suggested that we use the MEAN stack as a way to try out a completely new set of technologies. For our final project, we decided to create a product that would rely on completely unfamiliar technology despite having less than two weeks to complete the project. We learned how to use web sockets, how to tackle testing asynchronous behaviour, how to test visual input, and tackled unexpected problems that deploying to production created, and still managed to create a fun, engaging product by the end.
 
 ## Projects
 
