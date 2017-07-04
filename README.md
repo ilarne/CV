@@ -11,7 +11,7 @@ Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself 
 | Onbord  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |   [Live](https://github.com/ilarne/team-whiteboard)   |
 | MakersBnB  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |   [Live](https://github.com/motri/Makersbnb) |
 | ThermostatJS | Javascript, JQuery, HTML, CSS, Jasmine | [Live](https://github.com/ilarne/thermostat-JS) |
-| Battle! | Ruby, Sinatra, Rspec, Capybara | [Live]https://github.com/ilarne/battle |
+| Battle! | Ruby, Sinatra, Rspec, Capybara | [Live](https://github.com/ilarne/battle) |
 
 ## Education
 
