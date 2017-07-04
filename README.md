@@ -4,7 +4,15 @@ Full stack (with a flair for front end) Javascript and Ruby developer with the d
 
 Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. During this 12-week developer bootcamp I was put through the wringer in learning software development best practices - and loved every second of it.
 
+## Skills
 
+### Communication
+Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. Whether introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership, sitting at the front of internal communications between UK IT and the wider business of DNV GL, or providing first-line support to both the users and consultants of 25 different communities at C Space, I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion.
+
+Whether the task calls for professional or punchy and fun, my written communication has always been a speciality. Thanks to my engaging writing style, I was chosen to move from behind the scenes to user-facing community management for the Twitter account at C Space. I have directly secured conversions from my newsletter blasts at Rise Art, and successfully got buy-in for new printers at DNV GL after writing a persuasive and well-researched business case. 
+
+## Wider business thinking
+I have never confined myself to the role I was given in a company, preferring instead to branch out and see how my skils could be of use or have impact across the business. For example, at C Space I frequently assisted the Finance department and Boston office in ironing out budget issues across the company's accounts, and worked on top of my regular support duties to manage the Twitter community. At DNV GL I assisted in procurement, and at Rise Art I helped with offline event planning of two successful exhibitions on top of my regular digital marketing duties.
 
 ## Projects
 
@@ -58,21 +66,14 @@ C Space is a consultancy that specialises in customer-centric innovation. I supp
 
 **Deskside Analyst**
 
-Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes within the IT department. This included trends analysis of incoming tickets to anticipate and address user needs, such as creating a business case for new printers after recurring ticket requests regarding faults with the machines.
+Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes within the IT department.
 
 **IT Admin Assistant (Short Term Contract)**
 
-I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation, visualised via Excel and PowerPoint), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
+I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
 
 ### Rise Art (Jun 2014 - Aug 2014)
 
 **Digital Marketing Intern**
 
-I supported the marketing team with content creation and managing social media channels. 
-
--	Increased blog traffic via content marketing and social media. 
--	Directly secured conversions with newsletter content.
-- Built relationships with bloggers, journalists, editors and industry experts.
--	Self-initiated research and documentation of social platforms and industry trends.  
--	Helped to develop partnership between Art For Care, the charity founded by Rise Art, and St George’s Hospital.
-- Assisted in event planning and marketing for two successful exhibitions.
+I supported the marketing team with content creation, managing social media channels, and event planning for two successful exhibitions.
