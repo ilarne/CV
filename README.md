@@ -62,7 +62,9 @@ Please take a look at my final project: **[Onbord, the online collaborative whit
 
 ### International House
 
-I love to learn, and wanted to know how I could help others learn too. Last year I attained a **CELTA qualification** (teaching English as a second language) in 3 months while also working full-time. During (and beyond) the course I learned a lot about the art of communication, and was able to interact with, learn from and help people from all over the world.
+- CELTA qualification
+
+I love to learn, and wanted to know how I could help others learn too. Last year I attained a CELTA qualification (teaching English as a foreign language) in 3 months while also working full-time. During (and beyond) the course I learned a lot about the art of communication, and was able to interact with, learn from and help people from all over the world.
 
 ## Work Experience
 
