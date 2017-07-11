@@ -54,9 +54,7 @@ For our first project at Makers Academy, my team and I decided to do the entire 
 
 Makers Academy is an accelerated programme that assists students in therir own self-driven learning of software engineering. Test Driven Development, well-crafted code, pair programming and project work are emphasised as preparation for real-world situations and 'learning by doing'.
 
-![Onbord](https://github.com/ilarne/team-whiteboard/blob/master/public/images/onbord-logo.png "Onbord")
-
-Please take a look at my final project: **[Onbord, the online collaborative whiteboard](https://github.com/ilarne/team-whiteboard).**
+Please take a look at my final project: ![Onbord](https://github.com/ilarne/team-whiteboard/blob/master/public/images/onbord-logo.png "Onbord")
 
 ### Cardiff University
 
