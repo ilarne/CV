@@ -4,12 +4,12 @@
 
 Full stack (with a flair for front end) Javascript and Ruby developer with the drive to learn whatever else is needed to get the job done. Working previously across digital marketing, market research and IT roles has given me a balanced understanding of both tech and how it affects (or can be utilised to affect) the user.
 
-Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. During this 12-week developer bootcamp I was put through the wringer in learning software development best practices - and loved every second of it. I'm keen to combine my old skills with my newly-cultivated software craftsmanship and agile practices to deliver value both to a company's codebase and wider business strategy.
+Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. During this 12-week developer bootcamp I was put through the wringer in learning software development best practices - and loved every second of it. I'm keen to combine my old skills with the new, to deliver value to both a company's codebase and wider business strategy.
 
 ## Skills
 
-## Creativity
-Throughout my life, I have 
+## Creative Technology
+Whether drawing or creating graphics with Photoshop at home, designing magazine spreads with InDesign as an Editor, or designing the UI of projects at Makers Academy, I am highly motivated by anything that allows me to flex my creative muscles. At work, I was keen to get involved in anything involving the user experience. This ranged from designing weekly newsletters for Rise Art and C Space, to redesigning the internal SharePoint site for IT staff at DNV GL.
 
 ### Communication
 Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. Whether introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership, sitting at the front of internal communications between UK IT and the wider business of DNV GL, or providing first-line support to both the users and consultants of 25 different communities at C Space, I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion.
@@ -27,16 +27,15 @@ I have always picked up new knowledge quickly, both academically and with compan
 At Makers Academy, I picked up agile work practices quickly despite no prior experience, and had perfected this by my final project with daily stand-ups, retros and a rigorously adhered to kanban board. After learning Ruby for most of the course, I picked up Javascript in less than a week, and on the first day of learning this new language I completed a task in a few hours that had taken me a weekend in Ruby just a few weeks prior.
 
 ### Driven by challenge
-For our first project at Makers Academy, my team and I decided to do the entire thing in Javascript rather than the more familiar language of Ruby, and I suggested that we use the MEAN stack as a way to try out a completely new set of technologies. For our final project, we decided to create a product that would rely on completely unfamiliar technology despite having less than two weeks to complete the project. We learned how to use web sockets, how to tackle testing asynchronous behaviour, how to test visual input, and tackled unexpected problems that deploying to production created, and still managed to create a fun, engaging product by the end.
+For our first project at Makers Academy, my team and I decided to do the entire thing in Javascript rather than the more familiar language of Ruby, and I suggested that we use the MEAN stack as a way to try out a completely new set of technologies. For our final project, we decided to create a product that would rely on completely unfamiliar technology despite having less than two weeks to complete the project. We learned how to use web sockets, how to tackle testing asynchronous behaviour, how to test visual input, and tackled unexpected problems that deploying to production created, while still managing to create a fun and engaging product by the end.
 
-## Projects
+## Example Projects
 
 | Project  | Technologies | Link |
 | ------------- | ------------- | ---- |
 | Onbord  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |   [Live](https://github.com/ilarne/team-whiteboard)   |
 | MakersBnB  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |   [Live](https://github.com/motri/Makersbnb) |
 | ThermostatJS | Javascript, JQuery, HTML, CSS, Jasmine | [Live](https://github.com/ilarne/thermostat-JS) |
-| Battle! | Ruby, Sinatra, Rspec, Capybara | [Live](https://github.com/ilarne/battle) |
 | Acebook | Ruby on Rails, Javascript, HTML, CSS, Rspec, Clearance | [Live](https://github.com/makersacademy/acebook-april2017) |
 
 ## Education
