@@ -9,7 +9,7 @@ Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself 
 ## Skills
 
 ### Creative Technology
-Whether drawing or creating graphics with Photoshop at home, designing magazine spreads with InDesign as an Editor, or designing the UI of projects at Makers Academy, I am highly motivated by anything that allows me to flex my creative muscles. At work, I was keen to get involved in anything involving the user experience. This ranged from designing weekly newsletters for Rise Art and C Space, to redesigning the internal SharePoint site for IT staff at DNV GL.
+Whether drawing or creating graphics with Photoshop at home, designing magazine spreads with InDesign as an Editor, or designing the UI of projects such as Onbord at Makers Academy, I am highly motivated by anything that allows me to flex my creative muscles. At work, I was keen to get involved in anything involving the user experience. This ranged from designing weekly newsletters for Rise Art and C Space, to redesigning the internal SharePoint site for IT staff at DNV GL.
 
 ### Communication
 Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. Whether introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership, sitting at the front of internal communications between UK IT and the wider business of DNV GL, or providing first-line support to both the users and consultants of 25 different communities at C Space, I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion.
