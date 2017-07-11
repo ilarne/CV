@@ -60,8 +60,7 @@ Please take a look at my final project: **[Onbord, the online collaborative whit
 
 ### Cardiff University
 
-- Philosophy BA
-- 2:1
+- Philosophy BA (2:1)
 - Editor for Quench, Cardiff University's culture magazine
 
 ### International House
