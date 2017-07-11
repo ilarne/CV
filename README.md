@@ -8,6 +8,9 @@ Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself 
 
 ## Skills
 
+## Creativity
+Throughout my life, I have 
+
 ### Communication
 Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. Whether introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership, sitting at the front of internal communications between UK IT and the wider business of DNV GL, or providing first-line support to both the users and consultants of 25 different communities at C Space, I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion.
 
@@ -41,10 +44,12 @@ For our first project at Makers Academy, my team and I decided to do the entire 
 ### Makers Academy
 
 - Independent learning and problem-solving
-- OOP, TDD and SOLID principles
+- Strong collaborative focus (daily pair programming, project work)
+- Test-driven development
+- Object-oriented design
+- XP values
 - Agile practices and Continuous Deployment/Integration
 - Kaizen approach/'learning by doing'
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
