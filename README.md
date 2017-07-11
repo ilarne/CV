@@ -76,20 +76,13 @@ I love to learn, and wanted to know how I could help others learn too. Last year
 
 **Community Services Associate**
 
-C Space is a consultancy that specialises in customer-centric innovation. I supported and advised consultants and other departments on community management, budgeting, data reporting and member engagement.
-
 ### DNV GL (Sep 2014 - Aug 2015)  
 
 **Deskside Analyst**
 
-Assisted with IT support to users within the business. I communicated with users in order to better understand their needs and instigate relevant changes within the IT department.
-
 **IT Admin Assistant**
-
-I provided support for the team in a range of administrative tasks, as well as a number of ad hoc tasks and projects. I managed my own time across these responsibilities. Examples of tasks included internal communications (e.g. monthly service-level agreement reports, including trend analysis and performance evaluation), and short-term projects (e.g. redesigning the internal SharePoint site to better suit team needs).
 
 ### Rise Art (Jun 2014 - Aug 2014)
 
 **Digital Marketing Intern**
 
-I supported the marketing team with content creation, managing social media channels, and event planning for two successful exhibitions.
