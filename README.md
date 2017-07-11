@@ -80,7 +80,7 @@ I love to learn, and wanted to know how I could help others learn too. Last year
 
 - Deskside Analyst
 
-- T Admin Assistant
+- IT Admin Assistant
 
 ### Rise Art (Jun 2014 - Aug 2014)
 
