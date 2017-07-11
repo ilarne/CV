@@ -8,7 +8,7 @@ Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself 
 
 ## Skills
 
-## Creative Technology
+### Creative Technology
 Whether drawing or creating graphics with Photoshop at home, designing magazine spreads with InDesign as an Editor, or designing the UI of projects at Makers Academy, I am highly motivated by anything that allows me to flex my creative muscles. At work, I was keen to get involved in anything involving the user experience. This ranged from designing weekly newsletters for Rise Art and C Space, to redesigning the internal SharePoint site for IT staff at DNV GL.
 
 ### Communication
