@@ -34,8 +34,8 @@ For our first project at Makers Academy, my team and I decided to do the entire 
 | Project  | Technologies | Link |
 | ------------- | ------------- | ---- |
 | Onbord  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |   [Live](https://github.com/ilarne/team-whiteboard)   |
-| MakersBnB  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |   [Live](https://github.com/motri/Makersbnb) |
 | ThermostatJS | Javascript, JQuery, HTML, CSS, Jasmine | [Live](https://github.com/ilarne/thermostat-JS) |
+| MakersBnB  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |   [Live](https://github.com/motri/Makersbnb) |
 | Acebook | Ruby on Rails, Javascript, HTML, CSS, Rspec, Clearance | [Live](https://github.com/makersacademy/acebook-april2017) |
 
 ## Education
