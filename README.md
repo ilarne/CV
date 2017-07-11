@@ -74,15 +74,15 @@ I love to learn, and wanted to know how I could help others learn too. Last year
 
 ### C Space (Sept 2015 - Feb 2017)   
 
-Community Services Associate
+- Community Services Associate
 
 ### DNV GL (Sep 2014 - Aug 2015)  
 
-Deskside Analyst
+- Deskside Analyst
 
-IT Admin Assistant
+- T Admin Assistant
 
 ### Rise Art (Jun 2014 - Aug 2014)
 
-Digital Marketing Intern
+- Digital Marketing Intern
 
