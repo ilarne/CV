@@ -33,7 +33,7 @@ For our first project at Makers Academy, my team and I decided to do the entire 
 
 | Project  | Technologies | Link |
 | ------------- | ------------- | ---- |
-| Onbord  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |   [Live](https://github.com/ilarne/team-whiteboard)   |
+|**Final Project:** Onbord  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |   [Live](https://github.com/ilarne/team-whiteboard)   |
 | ThermostatJS | Javascript, JQuery, HTML, CSS, Jasmine | [Live](https://github.com/ilarne/thermostat-JS) |
 | MakersBnB  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |   [Live](https://github.com/motri/Makersbnb) |
 | Acebook | Ruby on Rails, Javascript, HTML, CSS, Rspec, Clearance | [Live](https://github.com/makersacademy/acebook-april2017) |
@@ -53,8 +53,6 @@ For our first project at Makers Academy, my team and I decided to do the entire 
 - Rspec, Jasmine, Mocha
 
 Makers Academy is an accelerated programme that assists students in therir own self-driven learning of software engineering. Test Driven Development, well-crafted code, pair programming and project work are emphasised as preparation for real-world situations and 'learning by doing'.
-
-Please take a look at my final project: ![Onbord](https://github.com/ilarne/team-whiteboard/blob/master/public/images/onbord-logo.png "Onbord")
 
 ### Cardiff University
 
