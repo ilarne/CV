@@ -14,8 +14,6 @@ Whether drawing or creating graphics with Photoshop at home, designing magazine 
 ### Communication
 Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. Whether introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership, sitting at the front of internal communications between UK IT and the wider business of DNV GL, or providing first-line support to both the users and consultants of 25 different communities at C Space, I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion.
 
-Whether the task calls for professional or punchy and fun, my written communication has always been a speciality. Thanks to my engaging writing style, I was chosen to move from behind the scenes to user-facing community management for the Twitter account at C Space. I have directly secured conversions from my newsletter blasts at Rise Art, and successfully got buy-in for new printers at DNV GL after writing a persuasive and well-researched business case.
-
 At Makers Academy, I improved my communication skills further with a frequent feedback loop between the entire cohort, as well as daily pair programming and four group projects.
 
 ### Driven by challenge
