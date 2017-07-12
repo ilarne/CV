@@ -37,7 +37,7 @@ I have always picked up new knowledge quickly, both academically and with compan
 
   - At C Space I had mastered my day-to-day duties within a few weeks, and quickly moved on to a more advisory role in how the          consultants could best manage their communities and account spending
   - During my CELTA course, within a few weeks I was teaching classes by myself, with no prior experience of having run a lesson before   - At Makers Academy, I picked up agile work practices quickly despite no prior experience, and had perfected this by my final project with daily stand-ups, retros and a rigorously adhered to kanban board
-  - After learning Ruby for most of the course, Makers allowed me to pick up Javascript in less than a week.
+  - After learning Ruby for most of the course, Makers Academy allowed me to pick up Javascript in less than a week.
 
 ### Wider business thinking
 I have never closed my eyes to the wider workings of a company, preferring instead to branch out and see how my skils could be of use or have impact across the business: 
