@@ -53,7 +53,6 @@ I have never closed my eyes to the wider workings of a company, preferring inste
 | ------------- | ------------- |
 | [Onbord](https://github.com/ilarne/team-whiteboard)  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |
 | [ThermostatJS](https://github.com/ilarne/thermostat-JS) | Javascript, JQuery, HTML, CSS, Jasmine |
-| [MakersBnB](https://github.com/motri/Makersbnb)  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |
 | [Acebook](https://github.com/makersacademy/acebook-april2017) | Ruby on Rails, Javascript, HTML, CSS, Rspec, Clearance |
 
 ## Education
