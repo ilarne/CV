@@ -31,12 +31,12 @@ I have never closed my eyes to the wider workings of a company, preferring inste
 
 ## Example Projects
 
-| Project  | Technologies | Link |
-| ------------- | ------------- | ---- |
-| Onbord  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |   [Live](https://github.com/ilarne/team-whiteboard)   |
-| ThermostatJS | Javascript, JQuery, HTML, CSS, Jasmine | [Live](https://github.com/ilarne/thermostat-JS) |
-| MakersBnB  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |   [Live](https://github.com/motri/Makersbnb) |
-| Acebook | Ruby on Rails, Javascript, HTML, CSS, Rspec, Clearance | [Live](https://github.com/makersacademy/acebook-april2017) |
+| Project  | Technologies |
+| ------------- | ------------- |
+| [Onbord](https://github.com/ilarne/team-whiteboard)  | MongoDB, Express, NodeJS, HTML, CSS, Javascript, Socket.io, Jasmine, Testcafe, Mocha & Chai  |
+| [ThermostatJS](https://github.com/ilarne/thermostat-JS) | Javascript, JQuery, HTML, CSS, Jasmine |
+| [MakersBnB](https://github.com/motri/Makersbnb)  | MongoDB, Angular 2, Express, NodeJS, Javascript, HTML, CSS, Mocha  |
+| [Acebook](https://github.com/makersacademy/acebook-april2017) | Ruby on Rails, Javascript, HTML, CSS, Rspec, Clearance |
 
 ## Education
 
