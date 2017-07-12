@@ -21,7 +21,7 @@ I am highly motivated by anything that allows me to flex my creative muscles:
 Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion:
 
   - Introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership
-  - sitting at the front of internal communications between UK IT and the wider business of DNV GL
+  - Managing internal communications between UK IT and the wider business at DNV GL
   - Providing first-line support to both the users and consultants of 25 different communities at C Space
 
 At Makers Academy, I improved my communication skills further with a frequent feedback loop between the entire cohort, as well as daily pair programming and four group projects.
