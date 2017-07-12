@@ -24,6 +24,8 @@ For our first project at Makers Academy, my team and I decided to do the entire 
 ### Fast learner
 I have always picked up new knowledge quickly, both academically and with company processes. For example, at C Space I had mastered my day-to-day duties within a few weeks, and quickly moved on to a more advisory role in how the consultants could best manage their communities and account spending.
 
+During my CELTA course, within a few weeks I was teaching by myself, with no prior experience of having run a lesson before. 
+
 At Makers Academy, I picked up agile work practices quickly despite no prior experience, and had perfected this by my final project with daily stand-ups, retros and a rigorously adhered to kanban board. After learning Ruby for most of the course, I picked up Javascript in less than a week, and on the first day of learning this new language I completed a task in a few hours that had taken me a weekend in Ruby just a few weeks prior.
 
 ### Wider business thinking
