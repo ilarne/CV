@@ -69,7 +69,7 @@ I have never closed my eyes to the wider workings of a company, preferring inste
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
-Makers Academy is an accelerated programme that assists students in therir own self-driven learning of software engineering. Test Driven Development, well-crafted code, pair programming and project work are emphasised as preparation for real-world situations and 'learning by doing'.
+Makers Academy is an accelerated programme that assists students in therir own self-driven learning of software engineering. Test-driven development, well-crafted code, pair programming and project work are emphasised as preparation for real-world situations and 'learning by doing'.
 
 ### Cardiff University
 
