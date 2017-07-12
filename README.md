@@ -33,14 +33,14 @@ I am highly motivated by challenge and pushing myself to achieve as much as poss
   - Completed a CELTA qualification while working full-time
 
 ### Fast learner
-I have always picked up new knowledge quickly, both academically and with company processes. 
+I have always picked up new knowledge quickly, both academically and with company processes:
 
   - At C Space I had mastered my day-to-day duties within a few weeks, and quickly moved on to a more advisory role in how the          consultants could best manage their communities and account spending
   - During my CELTA course, within a few weeks I was teaching classes by myself, with no prior experience of having run a lesson before   - At Makers Academy, I picked up agile work practices quickly despite no prior experience, and had perfected this by my final project with daily stand-ups, retros and a rigorously adhered to kanban board
   - After learning Ruby for most of the course, Makers allowed me to pick up Javascript in less than a week.
 
 ### Wider business thinking
-I have never closed my eyes to the wider workings of a company, preferring instead to branch out and see how my skils could be of use or have impact across the business. 
+I have never closed my eyes to the wider workings of a company, preferring instead to branch out and see how my skils could be of use or have impact across the business: 
 
   - At C Space I frequently assisted the Finance department and Boston office in ironing out budget issues across the company's accounts, and worked on top of my regular support duties to manage the Twitter community. 
   - At DNV GL I picked up IT's procurement duties when a teammate went on maternity leave
