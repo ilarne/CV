@@ -9,25 +9,42 @@ Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself 
 ## Skills
 
 ### Creative Technology
-Whether drawing or creating graphics with Photoshop at home, designing magazine spreads with InDesign as an Editor, or designing the UI of projects such as [Onbord](https://github.com/ilarne/team-whiteboard) at Makers Academy, I am highly motivated by anything that allows me to flex my creative muscles. At work, I was keen to get involved in anything involving the user experience. This ranged from designing weekly newsletters for Rise Art and the C Space Twitter account, to redesigning the internal SharePoint site for IT staff at DNV GL, to creating engaging, bi-weekly lessons for my CELTA students using a variety of digital tools. 
+I am highly motivated by anything that allows me to flex my creative muscles:
+
+  - Proficient in Photopshop and InDesign
+  - Designing newsletter for Rise Art and C Space
+  - Redesigning internal SharePoint site at DNV GL
+  - Designing the UI of projects such as [Onbord](https://github.com/ilarne/team-whiteboard) at Makers Academy
+  - Creating engaging, bi-weekly lessons for my CELTA students using a variety of digital tools
 
 ### Communication
-Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. Whether introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership, sitting at the front of internal communications between UK IT and the wider business of DNV GL, or providing first-line support to both the users and consultants of 25 different communities at C Space, I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion.
+Liaising between both external users and clients, as well as inter- and intra-departmental communications, has been at the centre of all of my previous roles. I have excelled in seeing a problem from everyone's perspective and taking them into account to reach the most satisfying conclusion:
+
+  - Introducing the CEO of Rise Art to the Art Office of St George's Hospital to initiatie an arts charity partnership
+  - sitting at the front of internal communications between UK IT and the wider business of DNV GL
+  - Providing first-line support to both the users and consultants of 25 different communities at C Space
 
 At Makers Academy, I improved my communication skills further with a frequent feedback loop between the entire cohort, as well as daily pair programming and four group projects.
 
 ### Driven by challenge
-For our first project at Makers Academy, my team and I decided to do the entire thing in Javascript rather than the more familiar language of Ruby, and I suggested that we use the MEAN stack as a way to try out a completely new set of technologies. For our final project, we decided to create a product that would rely on completely unfamiliar technology despite having less than two weeks to complete the project. We learned how to use web sockets, how to tackle testing asynchronous behaviour, how to test visual input, and tackled unexpected problems that deploying to production created, while still managing to create a fun and engaging product by the end.
+I am highly motivated by challenge and pushing myself to achieve as much as possible with the time and opportunities I am given:
+
+  - Opting to try out completely unfamiliar technology for our final project, despite time-constraints
+  - Completed a CELTA qualification while working full-time
 
 ### Fast learner
-I have always picked up new knowledge quickly, both academically and with company processes. For example, at C Space I had mastered my day-to-day duties within a few weeks, and quickly moved on to a more advisory role in how the consultants could best manage their communities and account spending.
+I have always picked up new knowledge quickly, both academically and with company processes. 
 
-During my CELTA course, within a few weeks I was teaching classes by myself, with no prior experience of having run a lesson before. 
-
-At Makers Academy, I picked up agile work practices quickly despite no prior experience, and had perfected this by my final project with daily stand-ups, retros and a rigorously adhered to kanban board. After learning Ruby for most of the course, I picked up Javascript in less than a week, and on the first day of learning this new language I completed a task in a few hours that had taken me a weekend in Ruby just a few weeks prior.
+  - At C Space I had mastered my day-to-day duties within a few weeks, and quickly moved on to a more advisory role in how the          consultants could best manage their communities and account spending
+  - During my CELTA course, within a few weeks I was teaching classes by myself, with no prior experience of having run a lesson before   - At Makers Academy, I picked up agile work practices quickly despite no prior experience, and had perfected this by my final project with daily stand-ups, retros and a rigorously adhered to kanban board
+  - After learning Ruby for most of the course, Makers allowed me to pick up Javascript in less than a week.
 
 ### Wider business thinking
-I have never closed my eyes to the wider workings of a company, preferring instead to branch out and see how my skils could be of use or have impact across the business. For example, at C Space I frequently assisted the Finance department and Boston office in ironing out budget issues across the company's accounts, and worked on top of my regular support duties to manage the Twitter community. At DNV GL I picked up IT's procurement duties when a teammate went on maternity leave, and at Rise Art I helped with offline event planning of two successful exhibitions on top of my regular digital marketing duties.
+I have never closed my eyes to the wider workings of a company, preferring instead to branch out and see how my skils could be of use or have impact across the business. 
+
+  - At C Space I frequently assisted the Finance department and Boston office in ironing out budget issues across the company's accounts, and worked on top of my regular support duties to manage the Twitter community. 
+  - At DNV GL I picked up IT's procurement duties when a teammate went on maternity leave
+  - At Rise Art I helped with offline event planning of two successful exhibitions on top of my regular digital marketing duties.
 
 ## Example Projects
 
