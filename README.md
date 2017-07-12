@@ -12,7 +12,7 @@ Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself 
 I am highly motivated by anything that allows me to flex my creative muscles:
 
   - Proficient in Photopshop and InDesign
-  - Designing newsletter for Rise Art and C Space
+  - Responsible for designing weekly newsletter while at Rise Art and C Space
   - Redesigning internal SharePoint site at DNV GL
   - Designing the UI of projects such as [Onbord](https://github.com/ilarne/team-whiteboard) at Makers Academy
   - Creating engaging, bi-weekly lessons for my CELTA students using a variety of digital tools
