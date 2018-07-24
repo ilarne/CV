@@ -2,7 +2,7 @@
 
 ## Isabel Larner
 
-Full stack (with a flair for front end) Javascript and Ruby developer with the drive to learn whatever else is needed to get the job done. Working previously across digital marketing, market research and IT roles has given me a balanced understanding of both tech and how it affects (or can be utilised to affect) the user.
+PHP and Javascript developer with the drive to learn whatever else is needed to get the job done. Working previously across digital marketing, market research and IT roles has given me a balanced understanding of both tech and how it affects (or can be utilised to affect) the user.
 
 Why [Makers Academy](http://www.makersacademy.com/)? I wanted to upskill myself into a career where my creative energy, curious nature and logical mind could truly flourish. During this 12-week developer bootcamp I was put through the wringer in learning software development best practices - and loved every second of it. I'm keen to combine my old skills with the new, to deliver value to both a company's codebase and wider business strategy.
 
